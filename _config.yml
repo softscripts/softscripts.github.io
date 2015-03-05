@@ -2,13 +2,13 @@ url: https://softscripts.github.io
 baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Soft Scripts
+email: info@softscripts.net
+description: "Web Development Company."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
+  primary: 00c3f4
   secondary: fec503  
   secondary-dark: 333
 
@@ -50,7 +50,7 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/softscripts
   - title: facebook
     url:
   - title: stack-overflow
@@ -58,12 +58,14 @@ social:
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/softscripts
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: #8&9, Krupa Apartments, Beside sriram properties, CBM Compund
+  - line: Visakhapatnam, Andhra Pradesh 530003
+  - line: Phone: 0891 2501202 , 2738589 
+  - line: Email: info@softscripts.net
 
 # Build settings
 markdown: kramdown
